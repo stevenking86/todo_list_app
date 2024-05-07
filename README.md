@@ -1,24 +1,9 @@
-# README
+# TODO with speech recognition and processing
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Currently this is a complete todo list app with basic CRUD. 
 
-Things you may want to cover:
+It looks like this: 
 
-* Ruby version
+![image](https://github.com/stevenking86/todo_list_app/assets/15672883/2a76101d-c503-42e6-a802-b08598bc77f7)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Soon we'll add more...
