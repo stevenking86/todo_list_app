@@ -1,6 +1,6 @@
 # TODO with speech recognition and processing
 
-Currently this is a complete todo list app with basic CRUD. 
+Currently this is a complete todo list app with basic CRUD. It was made with `rails scaffold` and styled with bootstrap.  Heavily aided by chatgpt for speed. 
 
 It looks like this: 
 
