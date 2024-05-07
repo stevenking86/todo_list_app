@@ -2,6 +2,8 @@
 import "@hotwired/turbo-rails"
 import "controllers"
 
+
+// This js is running but not working right now.  Reaching the else.
 // Check if browser supports speech recognition
 const SpeechRecognition =
   window.SpeechRecognition || window.webkitSpeechRecognition;
